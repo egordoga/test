@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9afe386e-5240-434e-a650-247ef10de684" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ivJun.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/AbbyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/JsonConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/JsonData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/SimplePojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/ArticleModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/ArticleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/Minicard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/NodeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/Translation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/WordListItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/WordListItemType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/genereted/1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/genereted/Body.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/genereted/G1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/genereted/G2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/genereted/G3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/genereted/G4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/genereted/G5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/genereted/G6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/genereted/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/genereted/Markup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/genereted/TitleMarkup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/aaa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/AbbyMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/JsonConvert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/JsonData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/SimplePojo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/ArticleModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/ArticleNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/Minicard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/NodeType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/Translation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/WordListItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/WordListItemType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/genereted/Body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/genereted/G1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/genereted/G2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/genereted/G3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/genereted/G4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/genereted/G5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/genereted/G6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/genereted/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/genereted/Markup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/genereted/TitleMarkup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/json/1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/json/2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/json/aaa" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SBwEgrBcKTRP7DYJNZ4U5XOZ86" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java\IntegrityProgects\ivJun\src\main\java\iv" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AbbyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iv.abby.AbbyMain" />
+      <module name="ivJun" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iv.abby.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AbbyMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9afe386e-5240-434e-a650-247ef10de684" name="Default Changelist" comment="" />
+      <created>1571050186093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571050186093</updated>
+      <workItem from="1571050190189" duration="1366000" />
+      <workItem from="1572206308942" duration="3631000" />
+      <workItem from="1577652096841" duration="340000" />
+      <workItem from="1577653132001" duration="95000" />
+      <workItem from="1577653994800" duration="977000" />
+      <workItem from="1577730990859" duration="934000" />
+      <workItem from="1578768643418" duration="152000" />
+      <workItem from="1578768811326" duration="814000" />
+      <workItem from="1578843687303" duration="5882000" />
+      <workItem from="1579112607813" duration="7619000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1064" y="338" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577731260202">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1064" y="338" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1577731260202" />
+    <state x="969" y="263" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578768788181">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="969" y="263" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578768788181" />
+    <state x="1077" y="271" key="FileChooserDialogImpl" timestamp="1579124957563">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1077" y="271" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1579124957563" />
+    <state width="997" height="266" key="GridCell.Tab.0.bottom" timestamp="1579122672370">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="997" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1579122672370" />
+    <state width="997" height="266" key="GridCell.Tab.0.center" timestamp="1579122672370">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="997" height="266" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1579122672370" />
+    <state width="997" height="266" key="GridCell.Tab.0.left" timestamp="1579122672370">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="997" height="266" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1579122672370" />
+    <state width="997" height="266" key="GridCell.Tab.0.right" timestamp="1579122672370">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="997" height="266" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1579122672370" />
+    <state x="769" y="109" key="SettingsEditor" timestamp="1577654303372">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="769" y="109" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1577654303372" />
+    <state x="894" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1579113287336">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="894" y="359" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1579113287336" />
+  </component>
+</project>

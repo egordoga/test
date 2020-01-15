@@ -1,0 +1,1277 @@
+==================================
+package jjj;
+public class TitleMarkup
+{
+    private boolean IsItalics;
+
+    private boolean IsAccent;
+
+    private String Node;
+
+    private String Text;
+
+    private boolean IsOptional;
+
+    public void setIsItalics(boolean IsItalics){
+        this.IsItalics = IsItalics;
+    }
+    public boolean getIsItalics(){
+        return this.IsItalics;
+    }
+    public void setIsAccent(boolean IsAccent){
+        this.IsAccent = IsAccent;
+    }
+    public boolean getIsAccent(){
+        return this.IsAccent;
+    }
+    public void setNode(String Node){
+        this.Node = Node;
+    }
+    public String getNode(){
+        return this.Node;
+    }
+    public void setText(String Text){
+        this.Text = Text;
+    }
+    public String getText(){
+        return this.Text;
+    }
+    public void setIsOptional(boolean IsOptional){
+        this.IsOptional = IsOptional;
+    }
+    public boolean getIsOptional(){
+        return this.IsOptional;
+    }
+}
+
+==================================
+package jjj;
+public class Markup
+{
+    private String Node;
+
+    private String Text;
+
+    private boolean IsOptional;
+
+    public void setNode(String Node){
+        this.Node = Node;
+    }
+    public String getNode(){
+        return this.Node;
+    }
+    public void setText(String Text){
+        this.Text = Text;
+    }
+    public String getText(){
+        return this.Text;
+    }
+    public void setIsOptional(boolean IsOptional){
+        this.IsOptional = IsOptional;
+    }
+    public boolean getIsOptional(){
+        return this.IsOptional;
+    }
+}
+
+==================================
+package jjj;
+import java.util.ArrayList;
+import java.util.List;
+public class Body
+{
+    private List<Markup> Markup;
+
+    private String Node;
+
+    private String Text;
+
+    private boolean IsOptional;
+
+    public void setMarkup(List<Markup> Markup){
+        this.Markup = Markup;
+    }
+    public List<Markup> getMarkup(){
+        return this.Markup;
+    }
+    public void setNode(String Node){
+        this.Node = Node;
+    }
+    public String getNode(){
+        return this.Node;
+    }
+    public void setText(String Text){
+        this.Text = Text;
+    }
+    public String getText(){
+        return this.Text;
+    }
+    public void setIsOptional(boolean IsOptional){
+        this.IsOptional = IsOptional;
+    }
+    public boolean getIsOptional(){
+        return this.IsOptional;
+    }
+}
+
+==================================
+package jjj;
+import java.util.ArrayList;
+import java.util.List;
+public class 0
+{
+    private String Title;
+
+    private List<TitleMarkup> TitleMarkup;
+
+    private String Dictionary;
+
+    private String ArticleId;
+
+    private List<Body> Body;
+
+    public void setTitle(String Title){
+        this.Title = Title;
+    }
+    public String getTitle(){
+        return this.Title;
+    }
+    public void setTitleMarkup(List<TitleMarkup> TitleMarkup){
+        this.TitleMarkup = TitleMarkup;
+    }
+    public List<TitleMarkup> getTitleMarkup(){
+        return this.TitleMarkup;
+    }
+    public void setDictionary(String Dictionary){
+        this.Dictionary = Dictionary;
+    }
+    public String getDictionary(){
+        return this.Dictionary;
+    }
+    public void setArticleId(String ArticleId){
+        this.ArticleId = ArticleId;
+    }
+    public String getArticleId(){
+        return this.ArticleId;
+    }
+    public void setBody(List<Body> Body){
+        this.Body = Body;
+    }
+    public List<Body> getBody(){
+        return this.Body;
+    }
+}
+
+==================================
+package jjj;
+public class TitleMarkup
+{
+    private boolean IsItalics;
+
+    private boolean IsAccent;
+
+    private String Node;
+
+    private String Text;
+
+    private boolean IsOptional;
+
+    public void setIsItalics(boolean IsItalics){
+        this.IsItalics = IsItalics;
+    }
+    public boolean getIsItalics(){
+        return this.IsItalics;
+    }
+    public void setIsAccent(boolean IsAccent){
+        this.IsAccent = IsAccent;
+    }
+    public boolean getIsAccent(){
+        return this.IsAccent;
+    }
+    public void setNode(String Node){
+        this.Node = Node;
+    }
+    public String getNode(){
+        return this.Node;
+    }
+    public void setText(String Text){
+        this.Text = Text;
+    }
+    public String getText(){
+        return this.Text;
+    }
+    public void setIsOptional(boolean IsOptional){
+        this.IsOptional = IsOptional;
+    }
+    public boolean getIsOptional(){
+        return this.IsOptional;
+    }
+}
+
+==================================
+package jjj;
+public class Markup
+{
+    private String Node;
+
+    private String Text;
+
+    private boolean IsOptional;
+
+    public void setNode(String Node){
+        this.Node = Node;
+    }
+    public String getNode(){
+        return this.Node;
+    }
+    public void setText(String Text){
+        this.Text = Text;
+    }
+    public String getText(){
+        return this.Text;
+    }
+    public void setIsOptional(boolean IsOptional){
+        this.IsOptional = IsOptional;
+    }
+    public boolean getIsOptional(){
+        return this.IsOptional;
+    }
+}
+
+==================================
+package jjj;
+import java.util.ArrayList;
+import java.util.List;
+public class Body
+{
+    private List<Markup> Markup;
+
+    private String Node;
+
+    private String Text;
+
+    private boolean IsOptional;
+
+    public void setMarkup(List<Markup> Markup){
+        this.Markup = Markup;
+    }
+    public List<Markup> getMarkup(){
+        return this.Markup;
+    }
+    public void setNode(String Node){
+        this.Node = Node;
+    }
+    public String getNode(){
+        return this.Node;
+    }
+    public void setText(String Text){
+        this.Text = Text;
+    }
+    public String getText(){
+        return this.Text;
+    }
+    public void setIsOptional(boolean IsOptional){
+        this.IsOptional = IsOptional;
+    }
+    public boolean getIsOptional(){
+        return this.IsOptional;
+    }
+}
+
+==================================
+package jjj;
+import java.util.ArrayList;
+import java.util.List;
+public class 1
+{
+    private String Title;
+
+    private List<TitleMarkup> TitleMarkup;
+
+    private String Dictionary;
+
+    private String ArticleId;
+
+    private List<Body> Body;
+
+    public void setTitle(String Title){
+        this.Title = Title;
+    }
+    public String getTitle(){
+        return this.Title;
+    }
+    public void setTitleMarkup(List<TitleMarkup> TitleMarkup){
+        this.TitleMarkup = TitleMarkup;
+    }
+    public List<TitleMarkup> getTitleMarkup(){
+        return this.TitleMarkup;
+    }
+    public void setDictionary(String Dictionary){
+        this.Dictionary = Dictionary;
+    }
+    public String getDictionary(){
+        return this.Dictionary;
+    }
+    public void setArticleId(String ArticleId){
+        this.ArticleId = ArticleId;
+    }
+    public String getArticleId(){
+        return this.ArticleId;
+    }
+    public void setBody(List<Body> Body){
+        this.Body = Body;
+    }
+    public List<Body> getBody(){
+        return this.Body;
+    }
+}
+
+==================================
+package jjj;
+public class TitleMarkup
+{
+    private boolean IsItalics;
+
+    private boolean IsAccent;
+
+    private String Node;
+
+    private String Text;
+
+    private boolean IsOptional;
+
+    public void setIsItalics(boolean IsItalics){
+        this.IsItalics = IsItalics;
+    }
+    public boolean getIsItalics(){
+        return this.IsItalics;
+    }
+    public void setIsAccent(boolean IsAccent){
+        this.IsAccent = IsAccent;
+    }
+    public boolean getIsAccent(){
+        return this.IsAccent;
+    }
+    public void setNode(String Node){
+        this.Node = Node;
+    }
+    public String getNode(){
+        return this.Node;
+    }
+    public void setText(String Text){
+        this.Text = Text;
+    }
+    public String getText(){
+        return this.Text;
+    }
+    public void setIsOptional(boolean IsOptional){
+        this.IsOptional = IsOptional;
+    }
+    public boolean getIsOptional(){
+        return this.IsOptional;
+    }
+}
+
+==================================
+package jjj;
+public class Markup
+{
+    private boolean IsItalics;
+
+    private boolean IsAccent;
+
+    private String Node;
+
+    private String Text;
+
+    private boolean IsOptional;
+
+    public void setIsItalics(boolean IsItalics){
+        this.IsItalics = IsItalics;
+    }
+    public boolean getIsItalics(){
+        return this.IsItalics;
+    }
+    public void setIsAccent(boolean IsAccent){
+        this.IsAccent = IsAccent;
+    }
+    public boolean getIsAccent(){
+        return this.IsAccent;
+    }
+    public void setNode(String Node){
+        this.Node = Node;
+    }
+    public String getNode(){
+        return this.Node;
+    }
+    public void setText(String Text){
+        this.Text = Text;
+    }
+    public String getText(){
+        return this.Text;
+    }
+    public void setIsOptional(boolean IsOptional){
+        this.IsOptional = IsOptional;
+    }
+    public boolean getIsOptional(){
+        return this.IsOptional;
+    }
+}
+
+==================================
+package jjj;
+import java.util.ArrayList;
+import java.util.List;
+public class Body
+{
+    private List<Markup> Markup;
+
+    private String Node;
+
+    private String Text;
+
+    private boolean IsOptional;
+
+    public void setMarkup(List<Markup> Markup){
+        this.Markup = Markup;
+    }
+    public List<Markup> getMarkup(){
+        return this.Markup;
+    }
+    public void setNode(String Node){
+        this.Node = Node;
+    }
+    public String getNode(){
+        return this.Node;
+    }
+    public void setText(String Text){
+        this.Text = Text;
+    }
+    public String getText(){
+        return this.Text;
+    }
+    public void setIsOptional(boolean IsOptional){
+        this.IsOptional = IsOptional;
+    }
+    public boolean getIsOptional(){
+        return this.IsOptional;
+    }
+}
+
+==================================
+package jjj;
+import java.util.ArrayList;
+import java.util.List;
+public class 2
+{
+    private String Title;
+
+    private List<TitleMarkup> TitleMarkup;
+
+    private String Dictionary;
+
+    private String ArticleId;
+
+    private List<Body> Body;
+
+    public void setTitle(String Title){
+        this.Title = Title;
+    }
+    public String getTitle(){
+        return this.Title;
+    }
+    public void setTitleMarkup(List<TitleMarkup> TitleMarkup){
+        this.TitleMarkup = TitleMarkup;
+    }
+    public List<TitleMarkup> getTitleMarkup(){
+        return this.TitleMarkup;
+    }
+    public void setDictionary(String Dictionary){
+        this.Dictionary = Dictionary;
+    }
+    public String getDictionary(){
+        return this.Dictionary;
+    }
+    public void setArticleId(String ArticleId){
+        this.ArticleId = ArticleId;
+    }
+    public String getArticleId(){
+        return this.ArticleId;
+    }
+    public void setBody(List<Body> Body){
+        this.Body = Body;
+    }
+    public List<Body> getBody(){
+        return this.Body;
+    }
+}
+
+==================================
+package jjj;
+public class TitleMarkup
+{
+    private boolean IsItalics;
+
+    private boolean IsAccent;
+
+    private String Node;
+
+    private String Text;
+
+    private boolean IsOptional;
+
+    public void setIsItalics(boolean IsItalics){
+        this.IsItalics = IsItalics;
+    }
+    public boolean getIsItalics(){
+        return this.IsItalics;
+    }
+    public void setIsAccent(boolean IsAccent){
+        this.IsAccent = IsAccent;
+    }
+    public boolean getIsAccent(){
+        return this.IsAccent;
+    }
+    public void setNode(String Node){
+        this.Node = Node;
+    }
+    public String getNode(){
+        return this.Node;
+    }
+    public void setText(String Text){
+        this.Text = Text;
+    }
+    public String getText(){
+        return this.Text;
+    }
+    public void setIsOptional(boolean IsOptional){
+        this.IsOptional = IsOptional;
+    }
+    public boolean getIsOptional(){
+        return this.IsOptional;
+    }
+}
+
+==================================
+package jjj;
+public class Markup
+{
+    private boolean IsItalics;
+
+    private boolean IsAccent;
+
+    private String Node;
+
+    private String Text;
+
+    private boolean IsOptional;
+
+    public void setIsItalics(boolean IsItalics){
+        this.IsItalics = IsItalics;
+    }
+    public boolean getIsItalics(){
+        return this.IsItalics;
+    }
+    public void setIsAccent(boolean IsAccent){
+        this.IsAccent = IsAccent;
+    }
+    public boolean getIsAccent(){
+        return this.IsAccent;
+    }
+    public void setNode(String Node){
+        this.Node = Node;
+    }
+    public String getNode(){
+        return this.Node;
+    }
+    public void setText(String Text){
+        this.Text = Text;
+    }
+    public String getText(){
+        return this.Text;
+    }
+    public void setIsOptional(boolean IsOptional){
+        this.IsOptional = IsOptional;
+    }
+    public boolean getIsOptional(){
+        return this.IsOptional;
+    }
+}
+
+==================================
+package jjj;
+import java.util.ArrayList;
+import java.util.List;
+public class Body
+{
+    private List<Markup> Markup;
+
+    private String Node;
+
+    private String Text;
+
+    private boolean IsOptional;
+
+    public void setMarkup(List<Markup> Markup){
+        this.Markup = Markup;
+    }
+    public List<Markup> getMarkup(){
+        return this.Markup;
+    }
+    public void setNode(String Node){
+        this.Node = Node;
+    }
+    public String getNode(){
+        return this.Node;
+    }
+    public void setText(String Text){
+        this.Text = Text;
+    }
+    public String getText(){
+        return this.Text;
+    }
+    public void setIsOptional(boolean IsOptional){
+        this.IsOptional = IsOptional;
+    }
+    public boolean getIsOptional(){
+        return this.IsOptional;
+    }
+}
+
+==================================
+package jjj;
+import java.util.ArrayList;
+import java.util.List;
+public class 3
+{
+    private String Title;
+
+    private List<TitleMarkup> TitleMarkup;
+
+    private String Dictionary;
+
+    private String ArticleId;
+
+    private List<Body> Body;
+
+    public void setTitle(String Title){
+        this.Title = Title;
+    }
+    public String getTitle(){
+        return this.Title;
+    }
+    public void setTitleMarkup(List<TitleMarkup> TitleMarkup){
+        this.TitleMarkup = TitleMarkup;
+    }
+    public List<TitleMarkup> getTitleMarkup(){
+        return this.TitleMarkup;
+    }
+    public void setDictionary(String Dictionary){
+        this.Dictionary = Dictionary;
+    }
+    public String getDictionary(){
+        return this.Dictionary;
+    }
+    public void setArticleId(String ArticleId){
+        this.ArticleId = ArticleId;
+    }
+    public String getArticleId(){
+        return this.ArticleId;
+    }
+    public void setBody(List<Body> Body){
+        this.Body = Body;
+    }
+    public List<Body> getBody(){
+        return this.Body;
+    }
+}
+
+==================================
+package jjj;
+public class TitleMarkup
+{
+    private boolean IsItalics;
+
+    private boolean IsAccent;
+
+    private String Node;
+
+    private String Text;
+
+    private boolean IsOptional;
+
+    public void setIsItalics(boolean IsItalics){
+        this.IsItalics = IsItalics;
+    }
+    public boolean getIsItalics(){
+        return this.IsItalics;
+    }
+    public void setIsAccent(boolean IsAccent){
+        this.IsAccent = IsAccent;
+    }
+    public boolean getIsAccent(){
+        return this.IsAccent;
+    }
+    public void setNode(String Node){
+        this.Node = Node;
+    }
+    public String getNode(){
+        return this.Node;
+    }
+    public void setText(String Text){
+        this.Text = Text;
+    }
+    public String getText(){
+        return this.Text;
+    }
+    public void setIsOptional(boolean IsOptional){
+        this.IsOptional = IsOptional;
+    }
+    public boolean getIsOptional(){
+        return this.IsOptional;
+    }
+}
+
+==================================
+package jjj;
+public class Markup
+{
+    private boolean IsItalics;
+
+    private boolean IsAccent;
+
+    private String Node;
+
+    private String Text;
+
+    private boolean IsOptional;
+
+    public void setIsItalics(boolean IsItalics){
+        this.IsItalics = IsItalics;
+    }
+    public boolean getIsItalics(){
+        return this.IsItalics;
+    }
+    public void setIsAccent(boolean IsAccent){
+        this.IsAccent = IsAccent;
+    }
+    public boolean getIsAccent(){
+        return this.IsAccent;
+    }
+    public void setNode(String Node){
+        this.Node = Node;
+    }
+    public String getNode(){
+        return this.Node;
+    }
+    public void setText(String Text){
+        this.Text = Text;
+    }
+    public String getText(){
+        return this.Text;
+    }
+    public void setIsOptional(boolean IsOptional){
+        this.IsOptional = IsOptional;
+    }
+    public boolean getIsOptional(){
+        return this.IsOptional;
+    }
+}
+
+==================================
+package jjj;
+import java.util.ArrayList;
+import java.util.List;
+public class Markup
+{
+    private List<Markup> Markup;
+
+    private String Node;
+
+    private String Text;
+
+    private boolean IsOptional;
+
+    public void setMarkup(List<Markup> Markup){
+        this.Markup = Markup;
+    }
+    public List<Markup> getMarkup(){
+        return this.Markup;
+    }
+    public void setNode(String Node){
+        this.Node = Node;
+    }
+    public String getNode(){
+        return this.Node;
+    }
+    public void setText(String Text){
+        this.Text = Text;
+    }
+    public String getText(){
+        return this.Text;
+    }
+    public void setIsOptional(boolean IsOptional){
+        this.IsOptional = IsOptional;
+    }
+    public boolean getIsOptional(){
+        return this.IsOptional;
+    }
+}
+
+==================================
+package jjj;
+import java.util.ArrayList;
+import java.util.List;
+public class Items
+{
+    private List<Markup> Markup;
+
+    private String Node;
+
+    private String Text;
+
+    private boolean IsOptional;
+
+    public void setMarkup(List<Markup> Markup){
+        this.Markup = Markup;
+    }
+    public List<Markup> getMarkup(){
+        return this.Markup;
+    }
+    public void setNode(String Node){
+        this.Node = Node;
+    }
+    public String getNode(){
+        return this.Node;
+    }
+    public void setText(String Text){
+        this.Text = Text;
+    }
+    public String getText(){
+        return this.Text;
+    }
+    public void setIsOptional(boolean IsOptional){
+        this.IsOptional = IsOptional;
+    }
+    public boolean getIsOptional(){
+        return this.IsOptional;
+    }
+}
+
+==================================
+package jjj;
+import java.util.ArrayList;
+import java.util.List;
+public class Body
+{
+    private int Type;
+
+    private List<Items> Items;
+
+    private String Node;
+
+    private String Text;
+
+    private boolean IsOptional;
+
+    public void setType(int Type){
+        this.Type = Type;
+    }
+    public int getType(){
+        return this.Type;
+    }
+    public void setItems(List<Items> Items){
+        this.Items = Items;
+    }
+    public List<Items> getItems(){
+        return this.Items;
+    }
+    public void setNode(String Node){
+        this.Node = Node;
+    }
+    public String getNode(){
+        return this.Node;
+    }
+    public void setText(String Text){
+        this.Text = Text;
+    }
+    public String getText(){
+        return this.Text;
+    }
+    public void setIsOptional(boolean IsOptional){
+        this.IsOptional = IsOptional;
+    }
+    public boolean getIsOptional(){
+        return this.IsOptional;
+    }
+}
+
+==================================
+package jjj;
+import java.util.ArrayList;
+import java.util.List;
+public class 4
+{
+    private String Title;
+
+    private List<TitleMarkup> TitleMarkup;
+
+    private String Dictionary;
+
+    private String ArticleId;
+
+    private List<Body> Body;
+
+    public void setTitle(String Title){
+        this.Title = Title;
+    }
+    public String getTitle(){
+        return this.Title;
+    }
+    public void setTitleMarkup(List<TitleMarkup> TitleMarkup){
+        this.TitleMarkup = TitleMarkup;
+    }
+    public List<TitleMarkup> getTitleMarkup(){
+        return this.TitleMarkup;
+    }
+    public void setDictionary(String Dictionary){
+        this.Dictionary = Dictionary;
+    }
+    public String getDictionary(){
+        return this.Dictionary;
+    }
+    public void setArticleId(String ArticleId){
+        this.ArticleId = ArticleId;
+    }
+    public String getArticleId(){
+        return this.ArticleId;
+    }
+    public void setBody(List<Body> Body){
+        this.Body = Body;
+    }
+    public List<Body> getBody(){
+        return this.Body;
+    }
+}
+
+==================================
+package jjj;
+public class TitleMarkup
+{
+    private boolean IsItalics;
+
+    private boolean IsAccent;
+
+    private String Node;
+
+    private String Text;
+
+    private boolean IsOptional;
+
+    public void setIsItalics(boolean IsItalics){
+        this.IsItalics = IsItalics;
+    }
+    public boolean getIsItalics(){
+        return this.IsItalics;
+    }
+    public void setIsAccent(boolean IsAccent){
+        this.IsAccent = IsAccent;
+    }
+    public boolean getIsAccent(){
+        return this.IsAccent;
+    }
+    public void setNode(String Node){
+        this.Node = Node;
+    }
+    public String getNode(){
+        return this.Node;
+    }
+    public void setText(String Text){
+        this.Text = Text;
+    }
+    public String getText(){
+        return this.Text;
+    }
+    public void setIsOptional(boolean IsOptional){
+        this.IsOptional = IsOptional;
+    }
+    public boolean getIsOptional(){
+        return this.IsOptional;
+    }
+}
+
+==================================
+package jjj;
+public class Markup
+{
+    private boolean IsItalics;
+
+    private boolean IsAccent;
+
+    private String Node;
+
+    private String Text;
+
+    private boolean IsOptional;
+
+    public void setIsItalics(boolean IsItalics){
+        this.IsItalics = IsItalics;
+    }
+    public boolean getIsItalics(){
+        return this.IsItalics;
+    }
+    public void setIsAccent(boolean IsAccent){
+        this.IsAccent = IsAccent;
+    }
+    public boolean getIsAccent(){
+        return this.IsAccent;
+    }
+    public void setNode(String Node){
+        this.Node = Node;
+    }
+    public String getNode(){
+        return this.Node;
+    }
+    public void setText(String Text){
+        this.Text = Text;
+    }
+    public String getText(){
+        return this.Text;
+    }
+    public void setIsOptional(boolean IsOptional){
+        this.IsOptional = IsOptional;
+    }
+    public boolean getIsOptional(){
+        return this.IsOptional;
+    }
+}
+
+==================================
+package jjj;
+import java.util.ArrayList;
+import java.util.List;
+public class Markup
+{
+    private List<Markup> Markup;
+
+    private String Node;
+
+    private String Text;
+
+    private boolean IsOptional;
+
+    public void setMarkup(List<Markup> Markup){
+        this.Markup = Markup;
+    }
+    public List<Markup> getMarkup(){
+        return this.Markup;
+    }
+    public void setNode(String Node){
+        this.Node = Node;
+    }
+    public String getNode(){
+        return this.Node;
+    }
+    public void setText(String Text){
+        this.Text = Text;
+    }
+    public String getText(){
+        return this.Text;
+    }
+    public void setIsOptional(boolean IsOptional){
+        this.IsOptional = IsOptional;
+    }
+    public boolean getIsOptional(){
+        return this.IsOptional;
+    }
+}
+
+==================================
+package jjj;
+import java.util.ArrayList;
+import java.util.List;
+public class Items
+{
+    private List<Markup> Markup;
+
+    private String Node;
+
+    private String Text;
+
+    private boolean IsOptional;
+
+    public void setMarkup(List<Markup> Markup){
+        this.Markup = Markup;
+    }
+    public List<Markup> getMarkup(){
+        return this.Markup;
+    }
+    public void setNode(String Node){
+        this.Node = Node;
+    }
+    public String getNode(){
+        return this.Node;
+    }
+    public void setText(String Text){
+        this.Text = Text;
+    }
+    public String getText(){
+        return this.Text;
+    }
+    public void setIsOptional(boolean IsOptional){
+        this.IsOptional = IsOptional;
+    }
+    public boolean getIsOptional(){
+        return this.IsOptional;
+    }
+}
+
+==================================
+package jjj;
+import java.util.ArrayList;
+import java.util.List;
+public class Body
+{
+    private int Type;
+
+    private List<Items> Items;
+
+    private String Node;
+
+    private String Text;
+
+    private boolean IsOptional;
+
+    public void setType(int Type){
+        this.Type = Type;
+    }
+    public int getType(){
+        return this.Type;
+    }
+    public void setItems(List<Items> Items){
+        this.Items = Items;
+    }
+    public List<Items> getItems(){
+        return this.Items;
+    }
+    public void setNode(String Node){
+        this.Node = Node;
+    }
+    public String getNode(){
+        return this.Node;
+    }
+    public void setText(String Text){
+        this.Text = Text;
+    }
+    public String getText(){
+        return this.Text;
+    }
+    public void setIsOptional(boolean IsOptional){
+        this.IsOptional = IsOptional;
+    }
+    public boolean getIsOptional(){
+        return this.IsOptional;
+    }
+}
+
+==================================
+package jjj;
+import java.util.ArrayList;
+import java.util.List;
+public class 5
+{
+    private String Title;
+
+    private List<TitleMarkup> TitleMarkup;
+
+    private String Dictionary;
+
+    private String ArticleId;
+
+    private List<Body> Body;
+
+    public void setTitle(String Title){
+        this.Title = Title;
+    }
+    public String getTitle(){
+        return this.Title;
+    }
+    public void setTitleMarkup(List<TitleMarkup> TitleMarkup){
+        this.TitleMarkup = TitleMarkup;
+    }
+    public List<TitleMarkup> getTitleMarkup(){
+        return this.TitleMarkup;
+    }
+    public void setDictionary(String Dictionary){
+        this.Dictionary = Dictionary;
+    }
+    public String getDictionary(){
+        return this.Dictionary;
+    }
+    public void setArticleId(String ArticleId){
+        this.ArticleId = ArticleId;
+    }
+    public String getArticleId(){
+        return this.ArticleId;
+    }
+    public void setBody(List<Body> Body){
+        this.Body = Body;
+    }
+    public List<Body> getBody(){
+        return this.Body;
+    }
+}
+
+==================================
+package jjj;
+public class Root
+{
+    private 0 0;
+
+    private 1 1;
+
+    private 2 2;
+
+    private 3 3;
+
+    private 4 4;
+
+    private 5 5;
+
+    public void set0(0 0){
+        this.0 = 0;
+    }
+    public 0 get0(){
+        return this.0;
+    }
+    public void set1(1 1){
+        this.1 = 1;
+    }
+    public 1 get1(){
+        return this.1;
+    }
+    public void set2(2 2){
+        this.2 = 2;
+    }
+    public 2 get2(){
+        return this.2;
+    }
+    public void set3(3 3){
+        this.3 = 3;
+    }
+    public 3 get3(){
+        return this.3;
+    }
+    public void set4(4 4){
+        this.4 = 4;
+    }
+    public 4 get4(){
+        return this.4;
+    }
+    public void set5(5 5){
+        this.5 = 5;
+    }
+    public 5 get5(){
+        return this.5;
+    }
+}

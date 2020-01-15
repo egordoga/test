@@ -1,0 +1,1737 @@
+[
+  {
+    "Title": "mother",
+    "TitleMarkup": [
+      {
+        "IsItalics": false,
+        "IsAccent": false,
+        "Node": "Text",
+        "Text": "mother",
+        "IsOptional": false
+      }
+    ],
+    "Dictionary": "LingvoUniversal (En-Ru)",
+    "ArticleId": "LingvoUniversal (En-Ru)__mother",
+    "Body": [
+      {
+        "Markup": [
+          {
+            "Node": "Transcription",
+            "Text": "'mʌðə",
+            "IsOptional": false
+          },
+          {
+            "IsItalics": false,
+            "IsAccent": false,
+            "Node": "Text",
+            "Text": " ",
+            "IsOptional": false
+          },
+          {
+            "FullText": "британский вариант английского языка; употребляется в Великобритании",
+            "Node": "Abbrev",
+            "Text": "брит.",
+            "IsOptional": false
+          },
+          {
+            "IsItalics": false,
+            "IsAccent": false,
+            "Node": "Text",
+            "Text": " ",
+            "IsOptional": false
+          },
+          {
+            "FileName": "mother.wav",
+            "Node": "Sound",
+            "Text": null,
+            "IsOptional": false
+          },
+          {
+            "IsItalics": false,
+            "IsAccent": false,
+            "Node": "Text",
+            "Text": " / ",
+            "IsOptional": false
+          },
+          {
+            "FullText": "американский вариант английского языка; употребляется в США",
+            "Node": "Abbrev",
+            "Text": "амер.",
+            "IsOptional": false
+          },
+          {
+            "IsItalics": false,
+            "IsAccent": false,
+            "Node": "Text",
+            "Text": " ",
+            "IsOptional": false
+          },
+          {
+            "FileName": "8323.wav",
+            "Node": "Sound",
+            "Text": null,
+            "IsOptional": false
+          }
+        ],
+        "Node": "Paragraph",
+        "Text": null,
+        "IsOptional": false
+      },
+      {
+        "Type": 2,
+        "Items": [
+          {
+            "Markup": [
+              {
+                "Markup": [
+                  {
+                    "FullText": "имя существительное",
+                    "Node": "Abbrev",
+                    "Text": "сущ.",
+                    "IsOptional": false
+                  }
+                ],
+                "Node": "Paragraph",
+                "Text": null,
+                "IsOptional": false
+              },
+              {
+                "Type": 3,
+                "Items": [
+                  {
+                    "Markup": [
+                      {
+                        "Type": 4,
+                        "Items": [
+                          {
+                            "Markup": [
+                              {
+                                "Markup": [
+                                  {
+                                    "IsItalics": false,
+                                    "IsAccent": false,
+                                    "Node": "Text",
+                                    "Text": "мать",
+                                    "IsOptional": false
+                                  }
+                                ],
+                                "Node": "Paragraph",
+                                "Text": null,
+                                "IsOptional": false
+                              },
+                              {
+                                "Type": null,
+                                "Items": [
+                                  {
+                                    "Markup": [
+                                      {
+                                        "Markup": [
+                                          {
+                                            "IsItalics": false,
+                                            "IsAccent": false,
+                                            "Node": "Text",
+                                            "Text": "She was like a mother to them. ",
+                                            "IsOptional": false
+                                          },
+                                          {
+                                            "IsItalics": false,
+                                            "IsAccent": false,
+                                            "Node": "Text",
+                                            "Text": "— Она была им как мать.",
+                                            "IsOptional": false
+                                          }
+                                        ],
+                                        "Node": "Example",
+                                        "Text": null,
+                                        "IsOptional": false
+                                      }
+                                    ],
+                                    "Node": "ExampleItem",
+                                    "Text": null,
+                                    "IsOptional": false
+                                  }
+                                ],
+                                "Node": "Examples",
+                                "Text": null,
+                                "IsOptional": true
+                              },
+                              {
+                                "Type": null,
+                                "Items": [
+                                  {
+                                    "Markup": [
+                                      {
+                                        "Dictionary": "LingvoUniversal (En-Ru)",
+                                        "ArticleId": "LingvoUniversal (En-Ru)__expectant mother",
+                                        "Node": "CardRef",
+                                        "Text": "expectant mother",
+                                        "IsOptional": false
+                                      }
+                                    ],
+                                    "Node": "CardRefItem",
+                                    "Text": null,
+                                    "IsOptional": false
+                                  },
+                                  {
+                                    "Markup": [
+                                      {
+                                        "Dictionary": "LingvoUniversal (En-Ru)",
+                                        "ArticleId": "LingvoUniversal (En-Ru)__foster mother",
+                                        "Node": "CardRef",
+                                        "Text": "foster mother",
+                                        "IsOptional": false
+                                      }
+                                    ],
+                                    "Node": "CardRefItem",
+                                    "Text": null,
+                                    "IsOptional": false
+                                  },
+                                  {
+                                    "Markup": [
+                                      {
+                                        "Dictionary": "LingvoUniversal (En-Ru)",
+                                        "ArticleId": "LingvoUniversal (En-Ru)__nursing mother",
+                                        "Node": "CardRef",
+                                        "Text": "nursing mother",
+                                        "IsOptional": false
+                                      }
+                                    ],
+                                    "Node": "CardRefItem",
+                                    "Text": null,
+                                    "IsOptional": false
+                                  },
+                                  {
+                                    "Markup": [
+                                      {
+                                        "Dictionary": "LingvoUniversal (En-Ru)",
+                                        "ArticleId": "LingvoUniversal (En-Ru)__surrogate mother",
+                                        "Node": "CardRef",
+                                        "Text": "surrogate mother",
+                                        "IsOptional": false
+                                      }
+                                    ],
+                                    "Node": "CardRefItem",
+                                    "Text": null,
+                                    "IsOptional": false
+                                  },
+                                  {
+                                    "Markup": [
+                                      {
+                                        "Dictionary": "LingvoUniversal (En-Ru)",
+                                        "ArticleId": "LingvoUniversal (En-Ru)__unwed mother",
+                                        "Node": "CardRef",
+                                        "Text": "unwed mother",
+                                        "IsOptional": false
+                                      }
+                                    ],
+                                    "Node": "CardRefItem",
+                                    "Text": null,
+                                    "IsOptional": false
+                                  },
+                                  {
+                                    "Markup": [
+                                      {
+                                        "Dictionary": "LingvoUniversal (En-Ru)",
+                                        "ArticleId": "LingvoUniversal (En-Ru)__single mother",
+                                        "Node": "CardRef",
+                                        "Text": "single mother",
+                                        "IsOptional": false
+                                      }
+                                    ],
+                                    "Node": "CardRefItem",
+                                    "Text": null,
+                                    "IsOptional": false
+                                  },
+                                  {
+                                    "Markup": [
+                                      {
+                                        "Dictionary": "LingvoUniversal (En-Ru)",
+                                        "ArticleId": "LingvoUniversal (En-Ru)__welfare mother",
+                                        "Node": "CardRef",
+                                        "Text": "welfare mother",
+                                        "IsOptional": false
+                                      }
+                                    ],
+                                    "Node": "CardRefItem",
+                                    "Text": null,
+                                    "IsOptional": false
+                                  },
+                                  {
+                                    "Markup": [
+                                      {
+                                        "Dictionary": "LingvoUniversal (En-Ru)",
+                                        "ArticleId": "LingvoUniversal (En-Ru)__working mother",
+                                        "Node": "CardRef",
+                                        "Text": "working mother",
+                                        "IsOptional": false
+                                      }
+                                    ],
+                                    "Node": "CardRefItem",
+                                    "Text": null,
+                                    "IsOptional": false
+                                  },
+                                  {
+                                    "Markup": [
+                                      {
+                                        "Dictionary": "LingvoUniversal (En-Ru)",
+                                        "ArticleId": "LingvoUniversal (En-Ru)__Mother of God",
+                                        "Node": "CardRef",
+                                        "Text": "Mother of God",
+                                        "IsOptional": false
+                                      }
+                                    ],
+                                    "Node": "CardRefItem",
+                                    "Text": null,
+                                    "IsOptional": false
+                                  },
+                                  {
+                                    "Markup": [
+                                      {
+                                        "Dictionary": "LingvoUniversal (En-Ru)",
+                                        "ArticleId": "LingvoUniversal (En-Ru)__God's Mother",
+                                        "Node": "CardRef",
+                                        "Text": "God's Mother",
+                                        "IsOptional": false
+                                      }
+                                    ],
+                                    "Node": "CardRefItem",
+                                    "Text": null,
+                                    "IsOptional": false
+                                  },
+                                  {
+                                    "Markup": [
+                                      {
+                                        "Dictionary": "LingvoUniversal (En-Ru)",
+                                        "ArticleId": "LingvoUniversal (En-Ru)__Mother's Day",
+                                        "Node": "CardRef",
+                                        "Text": "Mother's Day",
+                                        "IsOptional": false
+                                      }
+                                    ],
+                                    "Node": "CardRefItem",
+                                    "Text": null,
+                                    "IsOptional": false
+                                  }
+                                ],
+                                "Node": "CardRefs",
+                                "Text": null,
+                                "IsOptional": true
+                              },
+                              {
+                                "Node": "Caption",
+                                "Text": "Syn:",
+                                "IsOptional": true
+                              },
+                              {
+                                "Markup": [
+                                  {
+                                    "Dictionary": "LingvoUniversal (En-Ru)",
+                                    "ArticleId": "LingvoUniversal (En-Ru)__mamma",
+                                    "Node": "CardRef",
+                                    "Text": "mamma",
+                                    "IsOptional": false
+                                  },
+                                  {
+                                    "IsItalics": false,
+                                    "IsAccent": false,
+                                    "Node": "Text",
+                                    "Text": ", ",
+                                    "IsOptional": false
+                                  },
+                                  {
+                                    "Dictionary": "LingvoUniversal (En-Ru)",
+                                    "ArticleId": "LingvoUniversal (En-Ru)__mummy",
+                                    "Node": "CardRef",
+                                    "Text": "mummy",
+                                    "IsOptional": false
+                                  }
+                                ],
+                                "Node": "Paragraph",
+                                "Text": null,
+                                "IsOptional": true
+                              }
+                            ],
+                            "Node": "ListItem",
+                            "Text": null,
+                            "IsOptional": false
+                          },
+                          {
+                            "Markup": [
+                              {
+                                "Markup": [
+                                  {
+                                    "IsItalics": false,
+                                    "IsAccent": false,
+                                    "Node": "Text",
+                                    "Text": "материнские чувства",
+                                    "IsOptional": false
+                                  }
+                                ],
+                                "Node": "Paragraph",
+                                "Text": null,
+                                "IsOptional": false
+                              },
+                              {
+                                "Type": null,
+                                "Items": [
+                                  {
+                                    "Markup": [
+                                      {
+                                        "Markup": [
+                                          {
+                                            "IsItalics": false,
+                                            "IsAccent": false,
+                                            "Node": "Text",
+                                            "Text": "The mother in my soul was strong. ",
+                                            "IsOptional": false
+                                          },
+                                          {
+                                            "IsItalics": false,
+                                            "IsAccent": false,
+                                            "Node": "Text",
+                                            "Text": "— В моей душе были очень сильны материнские чувства.",
+                                            "IsOptional": false
+                                          }
+                                        ],
+                                        "Node": "Example",
+                                        "Text": null,
+                                        "IsOptional": false
+                                      }
+                                    ],
+                                    "Node": "ExampleItem",
+                                    "Text": null,
+                                    "IsOptional": false
+                                  }
+                                ],
+                                "Node": "Examples",
+                                "Text": null,
+                                "IsOptional": true
+                              }
+                            ],
+                            "Node": "ListItem",
+                            "Text": null,
+                            "IsOptional": false
+                          },
+                          {
+                            "Markup": [
+                              {
+                                "Markup": [
+                                  {
+                                    "FullText": "религия и религиозные культы",
+                                    "Node": "Abbrev",
+                                    "Text": "рел.",
+                                    "IsOptional": false
+                                  },
+                                  {
+                                    "IsItalics": false,
+                                    "IsAccent": false,
+                                    "Node": "Text",
+                                    "Text": "мать, матушка ",
+                                    "IsOptional": false
+                                  },
+                                  {
+                                    "Markup": [
+                                      {
+                                        "IsItalics": true,
+                                        "IsAccent": false,
+                                        "Node": "Text",
+                                        "Text": "(уважительное обращение к настоятельнице монастыря, игуменье)",
+                                        "IsOptional": false
+                                      }
+                                    ],
+                                    "Node": "Comment",
+                                    "Text": null,
+                                    "IsOptional": false
+                                  }
+                                ],
+                                "Node": "Paragraph",
+                                "Text": null,
+                                "IsOptional": false
+                              },
+                              {
+                                "Type": null,
+                                "Items": [
+                                  {
+                                    "Markup": [
+                                      {
+                                        "Dictionary": "LingvoUniversal (En-Ru)",
+                                        "ArticleId": "LingvoUniversal (En-Ru)__Mother Superior",
+                                        "Node": "CardRef",
+                                        "Text": "Mother Superior",
+                                        "IsOptional": false
+                                      }
+                                    ],
+                                    "Node": "CardRefItem",
+                                    "Text": null,
+                                    "IsOptional": false
+                                  }
+                                ],
+                                "Node": "CardRefs",
+                                "Text": null,
+                                "IsOptional": true
+                              }
+                            ],
+                            "Node": "ListItem",
+                            "Text": null,
+                            "IsOptional": false
+                          }
+                        ],
+                        "Node": "List",
+                        "Text": null,
+                        "IsOptional": false
+                      }
+                    ],
+                    "Node": "ListItem",
+                    "Text": null,
+                    "IsOptional": false
+                  },
+                  {
+                    "Markup": [
+                      {
+                        "Markup": [
+                          {
+                            "IsItalics": false,
+                            "IsAccent": false,
+                            "Node": "Text",
+                            "Text": "источник, начало",
+                            "IsOptional": false
+                          }
+                        ],
+                        "Node": "Paragraph",
+                        "Text": null,
+                        "IsOptional": false
+                      },
+                      {
+                        "Type": null,
+                        "Items": [
+                          {
+                            "Markup": [
+                              {
+                                "Markup": [
+                                  {
+                                    "IsItalics": false,
+                                    "IsAccent": false,
+                                    "Node": "Text",
+                                    "Text": "Necessity is the mother of invention. ",
+                                    "IsOptional": false
+                                  },
+                                  {
+                                    "IsItalics": false,
+                                    "IsAccent": false,
+                                    "Node": "Text",
+                                    "Text": "— Нужда - мать изобретательности.",
+                                    "IsOptional": false
+                                  }
+                                ],
+                                "Node": "Example",
+                                "Text": null,
+                                "IsOptional": false
+                              }
+                            ],
+                            "Node": "ExampleItem",
+                            "Text": null,
+                            "IsOptional": false
+                          }
+                        ],
+                        "Node": "Examples",
+                        "Text": null,
+                        "IsOptional": true
+                      },
+                      {
+                        "Node": "Caption",
+                        "Text": "Syn:",
+                        "IsOptional": true
+                      },
+                      {
+                        "Markup": [
+                          {
+                            "Dictionary": "LingvoUniversal (En-Ru)",
+                            "ArticleId": "LingvoUniversal (En-Ru)__spring",
+                            "Node": "CardRef",
+                            "Text": "spring",
+                            "IsOptional": false
+                          },
+                          {
+                            "IsItalics": false,
+                            "IsAccent": false,
+                            "Node": "Text",
+                            "Text": "I, ",
+                            "IsOptional": false
+                          },
+                          {
+                            "Dictionary": "LingvoUniversal (En-Ru)",
+                            "ArticleId": "LingvoUniversal (En-Ru)__source",
+                            "Node": "CardRef",
+                            "Text": "source",
+                            "IsOptional": false
+                          },
+                          {
+                            "IsItalics": false,
+                            "IsAccent": false,
+                            "Node": "Text",
+                            "Text": ", ",
+                            "IsOptional": false
+                          },
+                          {
+                            "Dictionary": "LingvoUniversal (En-Ru)",
+                            "ArticleId": "LingvoUniversal (En-Ru)__origin",
+                            "Node": "CardRef",
+                            "Text": "origin",
+                            "IsOptional": false
+                          }
+                        ],
+                        "Node": "Paragraph",
+                        "Text": null,
+                        "IsOptional": true
+                      }
+                    ],
+                    "Node": "ListItem",
+                    "Text": null,
+                    "IsOptional": false
+                  },
+                  {
+                    "Markup": [
+                      {
+                        "Markup": [
+                          {
+                            "IsItalics": false,
+                            "IsAccent": false,
+                            "Node": "Text",
+                            "Text": "земля",
+                            "IsOptional": false
+                          }
+                        ],
+                        "Node": "Paragraph",
+                        "Text": null,
+                        "IsOptional": false
+                      },
+                      {
+                        "Type": null,
+                        "Items": [
+                          {
+                            "Markup": [
+                              {
+                                "Markup": [
+                                  {
+                                    "IsItalics": false,
+                                    "IsAccent": false,
+                                    "Node": "Text",
+                                    "Text": "But the common mother of us all in no long time after received him gently into her lap. ",
+                                    "IsOptional": false
+                                  }
+                                ],
+                                "Node": "Example",
+                                "Text": null,
+                                "IsOptional": false
+                              },
+                              {
+                                "Markup": [
+                                  {
+                                    "IsItalics": true,
+                                    "IsAccent": false,
+                                    "Node": "Text",
+                                    "Text": "(Lamb) ",
+                                    "IsOptional": false
+                                  }
+                                ],
+                                "Node": "Comment",
+                                "Text": null,
+                                "IsOptional": false
+                              },
+                              {
+                                "Markup": [
+                                  {
+                                    "IsItalics": false,
+                                    "IsAccent": false,
+                                    "Node": "Text",
+                                    "Text": "— Но наша общая мать-земля вскоре приняла его в свои нежные объятия.",
+                                    "IsOptional": false
+                                  }
+                                ],
+                                "Node": "Example",
+                                "Text": null,
+                                "IsOptional": false
+                              }
+                            ],
+                            "Node": "ExampleItem",
+                            "Text": null,
+                            "IsOptional": false
+                          }
+                        ],
+                        "Node": "Examples",
+                        "Text": null,
+                        "IsOptional": true
+                      }
+                    ],
+                    "Node": "ListItem",
+                    "Text": null,
+                    "IsOptional": false
+                  },
+                  {
+                    "Markup": [
+                      {
+                        "Markup": [
+                          {
+                            "FullText": "религия и религиозные культы",
+                            "Node": "Abbrev",
+                            "Text": "рел.",
+                            "IsOptional": false
+                          },
+                          {
+                            "IsItalics": false,
+                            "IsAccent": false,
+                            "Node": "Text",
+                            "Text": "; = Mother Church ",
+                            "IsOptional": false
+                          },
+                          {
+                            "IsItalics": false,
+                            "IsAccent": false,
+                            "Node": "Text",
+                            "Text": "мать ",
+                            "IsOptional": false
+                          },
+                          {
+                            "Markup": [
+                              {
+                                "IsItalics": true,
+                                "IsAccent": false,
+                                "Node": "Text",
+                                "Text": "(о церкви как матери каждого христианина)",
+                                "IsOptional": false
+                              }
+                            ],
+                            "Node": "Comment",
+                            "Text": null,
+                            "IsOptional": false
+                          }
+                        ],
+                        "Node": "Paragraph",
+                        "Text": null,
+                        "IsOptional": false
+                      }
+                    ],
+                    "Node": "ListItem",
+                    "Text": null,
+                    "IsOptional": false
+                  },
+                  {
+                    "Markup": [
+                      {
+                        "Markup": [
+                          {
+                            "IsItalics": false,
+                            "IsAccent": false,
+                            "Node": "Text",
+                            "Text": "страна",
+                            "IsOptional": false
+                          }
+                        ],
+                        "Node": "Paragraph",
+                        "Text": null,
+                        "IsOptional": false
+                      },
+                      {
+                        "Type": null,
+                        "Items": [
+                          {
+                            "Markup": [
+                              {
+                                "Markup": [
+                                  {
+                                    "IsItalics": false,
+                                    "IsAccent": false,
+                                    "Node": "Text",
+                                    "Text": "Mother Russia ",
+                                    "IsOptional": false
+                                  },
+                                  {
+                                    "IsItalics": false,
+                                    "IsAccent": false,
+                                    "Node": "Text",
+                                    "Text": "— матушка Россия",
+                                    "IsOptional": false
+                                  }
+                                ],
+                                "Node": "Example",
+                                "Text": null,
+                                "IsOptional": false
+                              }
+                            ],
+                            "Node": "ExampleItem",
+                            "Text": null,
+                            "IsOptional": false
+                          }
+                        ],
+                        "Node": "Examples",
+                        "Text": null,
+                        "IsOptional": true
+                      }
+                    ],
+                    "Node": "ListItem",
+                    "Text": null,
+                    "IsOptional": false
+                  },
+                  {
+                    "Markup": [
+                      {
+                        "Markup": [
+                          {
+                            "IsItalics": false,
+                            "IsAccent": false,
+                            "Node": "Text",
+                            "Text": "= artificial mother ",
+                            "IsOptional": false
+                          },
+                          {
+                            "IsItalics": false,
+                            "IsAccent": false,
+                            "Node": "Text",
+                            "Text": "инкубатор",
+                            "IsOptional": false
+                          }
+                        ],
+                        "Node": "Paragraph",
+                        "Text": null,
+                        "IsOptional": false
+                      }
+                    ],
+                    "Node": "ListItem",
+                    "Text": null,
+                    "IsOptional": false
+                  },
+                  {
+                    "Markup": [
+                      {
+                        "Markup": [
+                          {
+                            "IsItalics": true,
+                            "IsAccent": false,
+                            "Node": "Text",
+                            "Text": "(the mother of all) ",
+                            "IsOptional": false
+                          },
+                          {
+                            "IsItalics": false,
+                            "IsAccent": false,
+                            "Node": "Text",
+                            "Text": "что-л. непревзойдённое, исключительное",
+                            "IsOptional": false
+                          }
+                        ],
+                        "Node": "Paragraph",
+                        "Text": null,
+                        "IsOptional": false
+                      },
+                      {
+                        "Type": null,
+                        "Items": [
+                          {
+                            "Markup": [
+                              {
+                                "Markup": [
+                                  {
+                                    "IsItalics": false,
+                                    "IsAccent": false,
+                                    "Node": "Text",
+                                    "Text": "to wake up with the mother of all hangovers ",
+                                    "IsOptional": false
+                                  },
+                                  {
+                                    "IsItalics": false,
+                                    "IsAccent": false,
+                                    "Node": "Text",
+                                    "Text": "— проснуться в состоянии тяжелейшего похмелья",
+                                    "IsOptional": false
+                                  }
+                                ],
+                                "Node": "Example",
+                                "Text": null,
+                                "IsOptional": false
+                              }
+                            ],
+                            "Node": "ExampleItem",
+                            "Text": null,
+                            "IsOptional": false
+                          }
+                        ],
+                        "Node": "Examples",
+                        "Text": null,
+                        "IsOptional": true
+                      },
+                      {
+                        "Type": null,
+                        "Items": [
+                          {
+                            "Markup": [
+                              {
+                                "Dictionary": "LingvoUniversal (En-Ru)",
+                                "ArticleId": "LingvoUniversal (En-Ru)__mother of all bombs",
+                                "Node": "CardRef",
+                                "Text": "mother of all bombs",
+                                "IsOptional": false
+                              }
+                            ],
+                            "Node": "CardRefItem",
+                            "Text": null,
+                            "IsOptional": false
+                          }
+                        ],
+                        "Node": "CardRefs",
+                        "Text": null,
+                        "IsOptional": true
+                      },
+                      {
+                        "Type": null,
+                        "Items": [
+                          {
+                            "Markup": [
+                              {
+                                "Dictionary": "LingvoUniversal (En-Ru)",
+                                "ArticleId": "LingvoUniversal (En-Ru)__every mother's son",
+                                "Node": "CardRef",
+                                "Text": "every mother's son",
+                                "IsOptional": false
+                              }
+                            ],
+                            "Node": "CardRefItem",
+                            "Text": null,
+                            "IsOptional": false
+                          },
+                          {
+                            "Markup": [
+                              {
+                                "Dictionary": "LingvoUniversal (En-Ru)",
+                                "ArticleId": "LingvoUniversal (En-Ru)__mother wit",
+                                "Node": "CardRef",
+                                "Text": "mother wit",
+                                "IsOptional": false
+                              }
+                            ],
+                            "Node": "CardRefItem",
+                            "Text": null,
+                            "IsOptional": false
+                          }
+                        ],
+                        "Node": "CardRefs",
+                        "Text": null,
+                        "IsOptional": false
+                      }
+                    ],
+                    "Node": "ListItem",
+                    "Text": null,
+                    "IsOptional": false
+                  }
+                ],
+                "Node": "List",
+                "Text": null,
+                "IsOptional": false
+              }
+            ],
+            "Node": "ListItem",
+            "Text": null,
+            "IsOptional": false
+          },
+          {
+            "Markup": [
+              {
+                "Markup": [
+                  {
+                    "FullText": "глагол",
+                    "Node": "Abbrev",
+                    "Text": "гл.",
+                    "IsOptional": false
+                  }
+                ],
+                "Node": "Paragraph",
+                "Text": null,
+                "IsOptional": false
+              },
+              {
+                "Type": 3,
+                "Items": [
+                  {
+                    "Markup": [
+                      {
+                        "Type": 4,
+                        "Items": [
+                          {
+                            "Markup": [
+                              {
+                                "Markup": [
+                                  {
+                                    "IsItalics": false,
+                                    "IsAccent": false,
+                                    "Node": "Text",
+                                    "Text": "быть матерью, родить, производить на свет",
+                                    "IsOptional": false
+                                  }
+                                ],
+                                "Node": "Paragraph",
+                                "Text": null,
+                                "IsOptional": false
+                              }
+                            ],
+                            "Node": "ListItem",
+                            "Text": null,
+                            "IsOptional": false
+                          },
+                          {
+                            "Markup": [
+                              {
+                                "Markup": [
+                                  {
+                                    "IsItalics": false,
+                                    "IsAccent": false,
+                                    "Node": "Text",
+                                    "Text": "порождать, производить, создавать",
+                                    "IsOptional": false
+                                  }
+                                ],
+                                "Node": "Paragraph",
+                                "Text": null,
+                                "IsOptional": false
+                              },
+                              {
+                                "Node": "Caption",
+                                "Text": "Syn:",
+                                "IsOptional": true
+                              },
+                              {
+                                "Markup": [
+                                  {
+                                    "Dictionary": "LingvoUniversal (En-Ru)",
+                                    "ArticleId": "LingvoUniversal (En-Ru)__produce",
+                                    "Node": "CardRef",
+                                    "Text": "produce",
+                                    "IsOptional": false
+                                  },
+                                  {
+                                    "IsItalics": false,
+                                    "IsAccent": false,
+                                    "Node": "Text",
+                                    "Text": "2.",
+                                    "IsOptional": false
+                                  }
+                                ],
+                                "Node": "Paragraph",
+                                "Text": null,
+                                "IsOptional": true
+                              }
+                            ],
+                            "Node": "ListItem",
+                            "Text": null,
+                            "IsOptional": false
+                          }
+                        ],
+                        "Node": "List",
+                        "Text": null,
+                        "IsOptional": false
+                      }
+                    ],
+                    "Node": "ListItem",
+                    "Text": null,
+                    "IsOptional": false
+                  },
+                  {
+                    "Markup": [
+                      {
+                        "Markup": [
+                          {
+                            "IsItalics": false,
+                            "IsAccent": false,
+                            "Node": "Text",
+                            "Text": "относиться по-матерински; заботиться, воспитывать, охранять",
+                            "IsOptional": false
+                          }
+                        ],
+                        "Node": "Paragraph",
+                        "Text": null,
+                        "IsOptional": false
+                      },
+                      {
+                        "Type": null,
+                        "Items": [
+                          {
+                            "Markup": [
+                              {
+                                "Markup": [
+                                  {
+                                    "IsItalics": false,
+                                    "IsAccent": false,
+                                    "Node": "Text",
+                                    "Text": "Someone will take up the girl and mother her. ",
+                                    "IsOptional": false
+                                  },
+                                  {
+                                    "IsItalics": false,
+                                    "IsAccent": false,
+                                    "Node": "Text",
+                                    "Text": "— Кто-нибудь возьмёт девочку и будет о ней заботиться.",
+                                    "IsOptional": false
+                                  }
+                                ],
+                                "Node": "Example",
+                                "Text": null,
+                                "IsOptional": false
+                              }
+                            ],
+                            "Node": "ExampleItem",
+                            "Text": null,
+                            "IsOptional": false
+                          }
+                        ],
+                        "Node": "Examples",
+                        "Text": null,
+                        "IsOptional": true
+                      }
+                    ],
+                    "Node": "ListItem",
+                    "Text": null,
+                    "IsOptional": false
+                  },
+                  {
+                    "Markup": [
+                      {
+                        "Type": 4,
+                        "Items": [
+                          {
+                            "Markup": [
+                              {
+                                "Markup": [
+                                  {
+                                    "IsItalics": false,
+                                    "IsAccent": false,
+                                    "Node": "Text",
+                                    "Text": "признавать себя матерью",
+                                    "IsOptional": false
+                                  }
+                                ],
+                                "Node": "Paragraph",
+                                "Text": null,
+                                "IsOptional": false
+                              }
+                            ],
+                            "Node": "ListItem",
+                            "Text": null,
+                            "IsOptional": false
+                          },
+                          {
+                            "Markup": [
+                              {
+                                "Markup": [
+                                  {
+                                    "IsItalics": true,
+                                    "IsAccent": false,
+                                    "Node": "Text",
+                                    "Text": "(mother (up)on) ",
+                                    "IsOptional": false
+                                  },
+                                  {
+                                    "IsItalics": false,
+                                    "IsAccent": false,
+                                    "Node": "Text",
+                                    "Text": "приписывать материнство ",
+                                    "IsOptional": false
+                                  },
+                                  {
+                                    "IsItalics": true,
+                                    "IsAccent": false,
+                                    "Node": "Text",
+                                    "Text": "(кому-л.)",
+                                    "IsOptional": false
+                                  }
+                                ],
+                                "Node": "Paragraph",
+                                "Text": null,
+                                "IsOptional": false
+                              }
+                            ],
+                            "Node": "ListItem",
+                            "Text": null,
+                            "IsOptional": false
+                          },
+                          {
+                            "Markup": [
+                              {
+                                "Markup": [
+                                  {
+                                    "IsItalics": true,
+                                    "IsAccent": false,
+                                    "Node": "Text",
+                                    "Text": "(mother (up)on) ",
+                                    "IsOptional": false
+                                  },
+                                  {
+                                    "IsItalics": false,
+                                    "IsAccent": false,
+                                    "Node": "Text",
+                                    "Text": "приписывать авторство ",
+                                    "IsOptional": false
+                                  },
+                                  {
+                                    "IsItalics": true,
+                                    "IsAccent": false,
+                                    "Node": "Text",
+                                    "Text": "(кому-л.)",
+                                    "IsOptional": false
+                                  }
+                                ],
+                                "Node": "Paragraph",
+                                "Text": null,
+                                "IsOptional": false
+                              }
+                            ],
+                            "Node": "ListItem",
+                            "Text": null,
+                            "IsOptional": false
+                          }
+                        ],
+                        "Node": "List",
+                        "Text": null,
+                        "IsOptional": false
+                      }
+                    ],
+                    "Node": "ListItem",
+                    "Text": null,
+                    "IsOptional": false
+                  },
+                  {
+                    "Markup": [
+                      {
+                        "Markup": [
+                          {
+                            "IsItalics": false,
+                            "IsAccent": false,
+                            "Node": "Text",
+                            "Text": "усыновлять; брать на воспитание",
+                            "IsOptional": false
+                          }
+                        ],
+                        "Node": "Paragraph",
+                        "Text": null,
+                        "IsOptional": false
+                      }
+                    ],
+                    "Node": "ListItem",
+                    "Text": null,
+                    "IsOptional": false
+                  }
+                ],
+                "Node": "List",
+                "Text": null,
+                "IsOptional": false
+              }
+            ],
+            "Node": "ListItem",
+            "Text": null,
+            "IsOptional": false
+          }
+        ],
+        "Node": "List",
+        "Text": null,
+        "IsOptional": false
+      }
+    ]
+  },
+  {
+    "Title": "mother",
+    "TitleMarkup": [
+      {
+        "IsItalics": false,
+        "IsAccent": false,
+        "Node": "Text",
+        "Text": "mother",
+        "IsOptional": false
+      }
+    ],
+    "Dictionary": "Law (En-Ru)",
+    "ArticleId": "Law (En-Ru)__mother",
+    "Body": [
+      {
+        "Markup": [
+          {
+            "IsItalics": false,
+            "IsAccent": false,
+            "Node": "Text",
+            "Text": "мать",
+            "IsOptional": false
+          }
+        ],
+        "Node": "Paragraph",
+        "Text": null,
+        "IsOptional": false
+      },
+      {
+        "Type": null,
+        "Items": [
+          {
+            "Markup": [
+              {
+                "Dictionary": "Law (En-Ru)",
+                "ArticleId": "Law (En-Ru)__expectant mother",
+                "Node": "CardRef",
+                "Text": "expectant mother",
+                "IsOptional": false
+              }
+            ],
+            "Node": "CardRefItem",
+            "Text": null,
+            "IsOptional": false
+          },
+          {
+            "Markup": [
+              {
+                "Dictionary": "Law (En-Ru)",
+                "ArticleId": "Law (En-Ru)__unwed mother",
+                "Node": "CardRef",
+                "Text": "unwed mother",
+                "IsOptional": false
+              }
+            ],
+            "Node": "CardRefItem",
+            "Text": null,
+            "IsOptional": false
+          },
+          {
+            "Markup": [
+              {
+                "Dictionary": "Law (En-Ru)",
+                "ArticleId": "Law (En-Ru)__welfare mother",
+                "Node": "CardRef",
+                "Text": "welfare mother",
+                "IsOptional": false
+              }
+            ],
+            "Node": "CardRefItem",
+            "Text": null,
+            "IsOptional": false
+          }
+        ],
+        "Node": "CardRefs",
+        "Text": null,
+        "IsOptional": true
+      }
+    ]
+  },
+  {
+    "Title": "mother",
+    "TitleMarkup": [
+      {
+        "IsItalics": false,
+        "IsAccent": false,
+        "Node": "Text",
+        "Text": "mother",
+        "IsOptional": false
+      }
+    ],
+    "Dictionary": "Biology (En-Ru)",
+    "ArticleId": "Biology (En-Ru)__mother",
+    "Body": [
+      {
+        "Markup": [
+          {
+            "IsItalics": false,
+            "IsAccent": false,
+            "Node": "Text",
+            "Text": "мать",
+            "IsOptional": false
+          }
+        ],
+        "Node": "Paragraph",
+        "Text": null,
+        "IsOptional": false
+      },
+      {
+        "Type": null,
+        "Items": [
+          {
+            "Markup": [
+              {
+                "Dictionary": "Biology (En-Ru)",
+                "ArticleId": "Biology (En-Ru)__false stem mother",
+                "Node": "CardRef",
+                "Text": "false stem mother",
+                "IsOptional": false
+              }
+            ],
+            "Node": "CardRefItem",
+            "Text": null,
+            "IsOptional": false
+          },
+          {
+            "Markup": [
+              {
+                "Dictionary": "Biology (En-Ru)",
+                "ArticleId": "Biology (En-Ru)__stem mother",
+                "Node": "CardRef",
+                "Text": "stem mother",
+                "IsOptional": false
+              }
+            ],
+            "Node": "CardRefItem",
+            "Text": null,
+            "IsOptional": false
+          },
+          {
+            "Markup": [
+              {
+                "Dictionary": "Biology (En-Ru)",
+                "ArticleId": "Biology (En-Ru)__true stem mother",
+                "Node": "CardRef",
+                "Text": "true stem mother",
+                "IsOptional": false
+              }
+            ],
+            "Node": "CardRefItem",
+            "Text": null,
+            "IsOptional": false
+          }
+        ],
+        "Node": "CardRefs",
+        "Text": null,
+        "IsOptional": true
+      }
+    ]
+  },
+  {
+    "Title": "mother",
+    "TitleMarkup": [
+      {
+        "IsItalics": false,
+        "IsAccent": false,
+        "Node": "Text",
+        "Text": "mother",
+        "IsOptional": false
+      }
+    ],
+    "Dictionary": "Psychology (En-Ru)",
+    "ArticleId": "Psychology (En-Ru)__mother",
+    "Body": [
+      {
+        "Markup": [
+          {
+            "IsItalics": false,
+            "IsAccent": false,
+            "Node": "Text",
+            "Text": "мать",
+            "IsOptional": false
+          }
+        ],
+        "Node": "Paragraph",
+        "Text": null,
+        "IsOptional": false
+      }
+    ]
+  },
+  {
+    "Title": "mother",
+    "TitleMarkup": [
+      {
+        "IsItalics": false,
+        "IsAccent": false,
+        "Node": "Text",
+        "Text": "mother",
+        "IsOptional": false
+      }
+    ],
+    "Dictionary": "AmericanEnglish (En-Ru)",
+    "ArticleId": "AmericanEnglish (En-Ru)__mother",
+    "Body": [
+      {
+        "Type": 3,
+        "Items": [
+          {
+            "Markup": [
+              {
+                "Markup": [
+                  {
+                    "IsItalics": false,
+                    "IsAccent": false,
+                    "Node": "Text",
+                    "Text": "мать ",
+                    "IsOptional": false
+                  },
+                  {
+                    "FullText": "женский род",
+                    "Node": "Abbrev",
+                    "Text": "ж",
+                    "IsOptional": false
+                  }
+                ],
+                "Node": "Paragraph",
+                "Text": null,
+                "IsOptional": false
+              },
+              {
+                "Type": null,
+                "Items": [
+                  {
+                    "Markup": [
+                      {
+                        "Markup": [
+                          {
+                            "IsItalics": false,
+                            "IsAccent": false,
+                            "Node": "Text",
+                            "Text": "mother love ",
+                            "IsOptional": false
+                          },
+                          {
+                            "IsItalics": false,
+                            "IsAccent": false,
+                            "Node": "Text",
+                            "Text": "— матер",
+                            "IsOptional": false
+                          },
+                          {
+                            "IsItalics": false,
+                            "IsAccent": true,
+                            "Node": "Text",
+                            "Text": "и",
+                            "IsOptional": false
+                          },
+                          {
+                            "IsItalics": false,
+                            "IsAccent": false,
+                            "Node": "Text",
+                            "Text": "нская люб",
+                            "IsOptional": false
+                          },
+                          {
+                            "IsItalics": false,
+                            "IsAccent": true,
+                            "Node": "Text",
+                            "Text": "о",
+                            "IsOptional": false
+                          },
+                          {
+                            "IsItalics": false,
+                            "IsAccent": false,
+                            "Node": "Text",
+                            "Text": "вь",
+                            "IsOptional": false
+                          }
+                        ],
+                        "Node": "Example",
+                        "Text": null,
+                        "IsOptional": false
+                      }
+                    ],
+                    "Node": "ExampleItem",
+                    "Text": null,
+                    "IsOptional": false
+                  },
+                  {
+                    "Markup": [
+                      {
+                        "Markup": [
+                          {
+                            "IsItalics": false,
+                            "IsAccent": false,
+                            "Node": "Text",
+                            "Text": "necessity is the mother of invention ",
+                            "IsOptional": false
+                          },
+                          {
+                            "IsItalics": false,
+                            "IsAccent": false,
+                            "Node": "Text",
+                            "Text": "— необход",
+                            "IsOptional": false
+                          },
+                          {
+                            "IsItalics": false,
+                            "IsAccent": true,
+                            "Node": "Text",
+                            "Text": "и",
+                            "IsOptional": false
+                          },
+                          {
+                            "IsItalics": false,
+                            "IsAccent": false,
+                            "Node": "Text",
+                            "Text": "мость, мать изобрет",
+                            "IsOptional": false
+                          },
+                          {
+                            "IsItalics": false,
+                            "IsAccent": true,
+                            "Node": "Text",
+                            "Text": "а",
+                            "IsOptional": false
+                          },
+                          {
+                            "IsItalics": false,
+                            "IsAccent": false,
+                            "Node": "Text",
+                            "Text": "тельности",
+                            "IsOptional": false
+                          }
+                        ],
+                        "Node": "Example",
+                        "Text": null,
+                        "IsOptional": false
+                      }
+                    ],
+                    "Node": "ExampleItem",
+                    "Text": null,
+                    "IsOptional": false
+                  }
+                ],
+                "Node": "Examples",
+                "Text": null,
+                "IsOptional": true
+              }
+            ],
+            "Node": "ListItem",
+            "Text": null,
+            "IsOptional": false
+          },
+          {
+            "Markup": [
+              {
+                "Markup": [
+                  {
+                    "FullText": "церковь и религия",
+                    "Node": "Abbrev",
+                    "Text": "церк",
+                    "IsOptional": false
+                  },
+                  {
+                    "IsItalics": false,
+                    "IsAccent": false,
+                    "Node": "Text",
+                    "Text": "мать ",
+                    "IsOptional": false
+                  },
+                  {
+                    "FullText": "женский род",
+                    "Node": "Abbrev",
+                    "Text": "ж",
+                    "IsOptional": false
+                  }
+                ],
+                "Node": "Paragraph",
+                "Text": null,
+                "IsOptional": false
+              },
+              {
+                "Type": null,
+                "Items": [
+                  {
+                    "Markup": [
+                      {
+                        "Markup": [
+                          {
+                            "IsItalics": false,
+                            "IsAccent": false,
+                            "Node": "Text",
+                            "Text": "Mother Superior ",
+                            "IsOptional": false
+                          },
+                          {
+                            "IsItalics": false,
+                            "IsAccent": false,
+                            "Node": "Text",
+                            "Text": "— матьнасто",
+                            "IsOptional": false
+                          },
+                          {
+                            "IsItalics": false,
+                            "IsAccent": true,
+                            "Node": "Text",
+                            "Text": "я",
+                            "IsOptional": false
+                          },
+                          {
+                            "IsItalics": false,
+                            "IsAccent": false,
+                            "Node": "Text",
+                            "Text": "тельница ",
+                            "IsOptional": false
+                          },
+                          {
+                            "FullText": "женский род",
+                            "Node": "Abbrev",
+                            "Text": "ж",
+                            "IsOptional": false
+                          }
+                        ],
+                        "Node": "Example",
+                        "Text": null,
+                        "IsOptional": false
+                      }
+                    ],
+                    "Node": "ExampleItem",
+                    "Text": null,
+                    "IsOptional": false
+                  }
+                ],
+                "Node": "Examples",
+                "Text": null,
+                "IsOptional": true
+              },
+              {
+                "Type": null,
+                "Items": [
+                  {
+                    "Markup": [
+                      {
+                        "Dictionary": "AmericanEnglish (En-Ru)",
+                        "ArticleId": "AmericanEnglish (En-Ru)__mother lode",
+                        "Node": "CardRef",
+                        "Text": "mother lode",
+                        "IsOptional": false
+                      }
+                    ],
+                    "Node": "CardRefItem",
+                    "Text": null,
+                    "IsOptional": false
+                  },
+                  {
+                    "Markup": [
+                      {
+                        "Dictionary": "AmericanEnglish (En-Ru)",
+                        "ArticleId": "AmericanEnglish (En-Ru)__Mother's Day",
+                        "Node": "CardRef",
+                        "Text": "Mother's Day",
+                        "IsOptional": false
+                      }
+                    ],
+                    "Node": "CardRefItem",
+                    "Text": null,
+                    "IsOptional": false
+                  },
+                  {
+                    "Markup": [
+                      {
+                        "Dictionary": "AmericanEnglish (En-Ru)",
+                        "ArticleId": "AmericanEnglish (En-Ru)__mother tongue",
+                        "Node": "CardRef",
+                        "Text": "mother tongue",
+                        "IsOptional": false
+                      }
+                    ],
+                    "Node": "CardRefItem",
+                    "Text": null,
+                    "IsOptional": false
+                  }
+                ],
+                "Node": "CardRefs",
+                "Text": null,
+                "IsOptional": true
+              }
+            ],
+            "Node": "ListItem",
+            "Text": null,
+            "IsOptional": false
+          }
+        ],
+        "Node": "List",
+        "Text": null,
+        "IsOptional": false
+      }
+    ]
+  }
+]
