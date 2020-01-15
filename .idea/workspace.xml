@@ -2,65 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9afe386e-5240-434e-a650-247ef10de684" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ivJun.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/AbbyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/JsonConvert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/JsonData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/SimplePojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/ArticleModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/ArticleNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/Minicard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/NodeType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/Translation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/WordListItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/WordListItemType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/genereted/1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/genereted/Body.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/genereted/G1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/genereted/G2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/genereted/G3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/genereted/G4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/genereted/G5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/genereted/G6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/genereted/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/genereted/Markup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iv/abby/abbyEntity/genereted/TitleMarkup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/json/1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/json/2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/json/aaa" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/AbbyMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/JsonConvert.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/JsonData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/SimplePojo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/ArticleModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/ArticleNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/Minicard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/NodeType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/Translation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/WordListItem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/WordListItemType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/genereted/Body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/genereted/G1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/genereted/G2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/genereted/G3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/genereted/G4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/genereted/G5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/genereted/G6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/genereted/Item.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/genereted/Markup.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/iv/abby/abbyEntity/genereted/TitleMarkup.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/json/1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/json/2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/json/aaa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +21,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\Java\IntegrityProgects\ivJun\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -93,6 +43,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -160,12 +111,24 @@
       <workItem from="1578768643418" duration="152000" />
       <workItem from="1578768811326" duration="814000" />
       <workItem from="1578843687303" duration="5882000" />
-      <workItem from="1579112607813" duration="7619000" />
+      <workItem from="1579112607813" duration="7940000" />
     </task>
+    <task id="LOCAL-00001" summary="open">
+      <created>1579125094844</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579125094844</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="open" />
+    <option name="LAST_COMMIT_MESSAGE" value="open" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1064" y="338" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577731260202">
@@ -176,6 +139,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="969" y="263" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578768788181" />
+    <state x="923" y="124" key="CommitChangelistDialog2" timestamp="1579125093091">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="923" y="124" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1579125093091" />
     <state x="1077" y="271" key="FileChooserDialogImpl" timestamp="1579124957563">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -200,6 +167,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="769" y="109" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1577654303372" />
+    <state x="889" y="251" key="Vcs.Push.Dialog.v2" timestamp="1579125121564">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="889" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1579125121564" />
     <state x="894" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1579113287336">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
