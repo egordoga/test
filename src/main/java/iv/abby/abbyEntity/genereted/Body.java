@@ -5,6 +5,7 @@ import java.util.List;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
+import iv.abby.abbyEntity.NodeType;
 import lombok.Data;
 
 @Data
@@ -19,8 +20,22 @@ public class Body {
     @JsonProperty("Node")
     private String node;
     @JsonProperty("Text")
-    private Object text;
+    private String text;
     @JsonProperty("Type")
-    private long type;
+    private NodeType type;
 
+    @JsonProperty("Markup")
+    private List<Markup> markups;
+
+    @Override
+    public String toString() {
+        return "Body{" +
+                "\n isOptional=" + isOptional +
+                ",\n items=" + items +
+                ",\n node='" + node + '\'' +
+                ",\n text=" + text +
+                ",\n type=" + type +
+                ",\n markups=" + markups +
+                '}';
+    }
 }

@@ -15,13 +15,13 @@ public class G1 {
     @JsonProperty("ArticleId")
     private String articleId;
     @JsonProperty("Body")
-    private List<Body> body;
+    private List<Body> bodies;
     @JsonProperty("Dictionary")
     private String dictionary;
     @JsonProperty("Title")
     private String title;
     @JsonProperty("TitleMarkup")
-    private List<TitleMarkup> titleMarkup;
+    private List<TitleMarkup> titleMarkupList;
 
 
 }
