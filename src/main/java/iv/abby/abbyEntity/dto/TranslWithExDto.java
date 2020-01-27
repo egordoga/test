@@ -11,7 +11,7 @@ public class TranslWithExDto {
     public String toString() {
         StringBuilder s = new StringBuilder(transl + "\n");
         for (ExampleDto ex : exs) {
-            s.append(ex.en).append(ex.ru).append("\n");
+            s.append("  ").append(ex.en).append(" -- ").append(ex.ru).append("\n");
         }
         return s.toString();
     }

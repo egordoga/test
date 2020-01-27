@@ -6,7 +6,7 @@ public class AbbyMain {
 
     public static void main(String[] args) {
         JsonConvert jConv = new JsonConvert();
-        jConv.printObj(JsonData.WISH);
+        jConv.printObj(JsonData.ISSUE);
        // jConv.printFromFile(PATH);
       //  jConv.printObj(SimplePojo.POJO);
     }
