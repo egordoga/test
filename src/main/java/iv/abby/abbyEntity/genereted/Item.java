@@ -5,6 +5,7 @@ import java.util.List;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
+import iv.abby.abbyEntity.NodeType;
 import lombok.Data;
 
 @Data
@@ -15,9 +16,9 @@ public class Item {
     @JsonProperty("IsOptional")
     private Boolean isOptional;
     @JsonProperty("Markup")
-    private List<Markup> markup;
+    private List<Markup> markupList;
     @JsonProperty("Node")
-    private String node;
+    private NodeType node;
     @JsonProperty("Text")
     private Object text;
 

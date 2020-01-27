@@ -20,7 +20,7 @@ public class Markup {
     @JsonProperty("IsOptional")
     private Boolean isOptional;
     @JsonProperty("Markup")
-    private List<Markup> markup;
+    private List<Markup> markupList;
     @JsonProperty("Node")
     private NodeType node;
     @JsonProperty("Text")
@@ -30,6 +30,10 @@ public class Markup {
     private String fileName;
     @JsonProperty("FullText")
     private String fullText;
+    @JsonProperty("Type")
+    private int type;
+    @JsonProperty("Items")
+    private List<Item> items;
 
 
     @Override
@@ -38,7 +42,7 @@ public class Markup {
                 "\nisAccent=" + isAccent +
                 ",\n isItalics=" + isItalics +
                 ",\n isOptional=" + isOptional +
-                ",\n markup=" + markup +
+                ",\n markup=" + markupList +
                 ",\n node='" + node + '\'' +
                 ",\n text='" + text + '\'' +
                 ",\n fileName='" + fileName + '\'' +

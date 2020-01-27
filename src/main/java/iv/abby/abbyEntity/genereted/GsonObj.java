@@ -10,7 +10,7 @@ import lombok.Data;
 @Data
 @SuppressWarnings("unused")
 @JsonIgnoreProperties(ignoreUnknown = true)
-public class G1 {
+public class GsonObj {
 
     @JsonProperty("ArticleId")
     private String articleId;

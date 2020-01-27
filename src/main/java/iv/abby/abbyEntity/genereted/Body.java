@@ -18,11 +18,11 @@ public class Body {
     @JsonProperty("Items")
     private List<Item> items;
     @JsonProperty("Node")
-    private String node;
+    private NodeType node;
     @JsonProperty("Text")
     private String text;
     @JsonProperty("Type")
-    private NodeType type;
+    private int type;
 
     @JsonProperty("Markup")
     private List<Markup> markups;
