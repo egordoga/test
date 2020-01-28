@@ -5,8 +5,9 @@ import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import iv.abby.abbyEntity.dto.ExampleDto;
 import iv.abby.abbyEntity.dto.TranslWithExDto;
+import iv.abby.abbyEntity.dto.WordDto;
 import iv.abby.abbyEntity.genereted.Body;
-import iv.abby.abbyEntity.genereted.GsonObj;
+import iv.abby.abbyEntity.genereted.JsonObj;
 import iv.abby.abbyEntity.genereted.Item;
 import iv.abby.abbyEntity.genereted.Markup;
 
@@ -19,27 +20,33 @@ import java.util.List;
 
 public class JsonConvert {
 
-    public void printObj(String json) {
+    public WordDto jsonToObj(String json) {
         ObjectMapper mapper = new ObjectMapper();
         mapper.enable(DeserializationFeature.ACCEPT_EMPTY_STRING_AS_NULL_OBJECT);
         mapper.enable(DeserializationFeature.FAIL_ON_IGNORED_PROPERTIES);
+        WordDto wordDto = null;
         try {
             //  Minicard card = mapper.readValue(json, Minicard.class);
             //  Translation card = mapper.readValue(json, Translation.class);
             //  SimplePojo card = mapper.readValue(json, SimplePojo.class);
           //  ArticleModel card = mapper.readValue(json, ArticleModel.class);
            // System.out.println(card.toString());
-            GsonObj gsonObj = mapper.readValue(json, GsonObj.class);
-            StringBuilder sb = convertBody(gsonObj.getBodies());
-            System.out.println("LIST --------------------------- SIZE: ");
-            List<TranslWithExDto> list = convertSbToObj(sb);
-            for (TranslWithExDto translWithExDto : list) {
-                System.out.println(translWithExDto);
-            }
-            System.out.println("SIZE " + list.size());
+            JsonObj jsonObj = mapper.readValue(json, JsonObj.class);
+       //     StringBuilder sb = convertBody(gsonObj.getBodies());
+        //    System.out.println("LIST --------------------------- SIZE: ");
+//            List<TranslWithExDto> list = convertSbToObj(sb);
+//            for (TranslWithExDto translWithExDto : list) {
+//                System.out.println(translWithExDto);
+//            }
+//            System.out.println("SIZE " + list.size());
+
+            wordDto = convertBody(jsonObj.getBodies());
+            wordDto.word = jsonObj.getTitle();
+            System.out.println(wordDto);
         } catch (JsonProcessingException e) {
             e.printStackTrace();
         }
+        return wordDto;
     }
 
     public void printFromFile(String path) {
@@ -47,7 +54,7 @@ public class JsonConvert {
         ObjectMapper mapper = new ObjectMapper();
         try {
             //Translation card = mapper.readValue(file, Translation.class);
-            GsonObj card = mapper.readValue(JsonData.LOOK, GsonObj.class);
+            JsonObj card = mapper.readValue(JsonData.LOOK, JsonObj.class);
             System.out.println(card);
             //System.out.println(card.translation.get(0));
             if (card.getBodies().size() > 1) {
@@ -94,7 +101,7 @@ public class JsonConvert {
     }
 
     private TranslWithExDto convertListItem(Item item, List<TranslWithExDto> twes, StringBuilder sb) {
-        TranslWithExDto twe = new TranslWithExDto();
+        TranslWithExDto twe = null;
         List<ExampleDto> exs = new ArrayList<ExampleDto>();
         String s = "";
         for (Markup markup : item.getMarkupList()) {
@@ -104,9 +111,10 @@ public class JsonConvert {
                     if (!s.equals("") && !(s.startsWith("/") && s.endsWith("/"))) {
                         twe = new TranslWithExDto();
                         twe.transl = s;
+                        twes.add(twe);
                     }
                     sb.append("TTTRRR").append(s).append("!*!");
-                    System.out.println("TR " + s);
+               //     System.out.println("TR " + s);
                     break;
                 case LIST:
                     for (Item markupItem : markup.getItems()) {
@@ -115,14 +123,16 @@ public class JsonConvert {
                     break;
                 case EXAMPLES:
                    // List<ExampleDto> exs = new ArrayList<ExampleDto>();
-                    twe.exs = convertExampleItem(markup.getItems(), /*exs,*/ sb);
-                   // twe.exs = exs;
+                    if (twe != null) {
+                        twe.exs = convertExampleItem(markup.getItems(), /*exs,*/ sb);
+                    }
+                    // twe.exs = exs;
                     break;
                 default:
                     return null;
             }
+          //  twes.add(twe);
         }
-        twes.add(twe);
         return twe;
     }
 
@@ -171,12 +181,14 @@ public class JsonConvert {
                     for (Markup markup : item.getMarkupList()) {
                         switch (markup.getNode()) {
                             case EXAMPLE:
-                                exDto.en = markup.getMarkupList().get(0).getText();
-                                exDto.ru = markup.getMarkupList().get(1).getText();
-                                exDtos.add(exDto);
+                                if (markup.getMarkupList().size()  == 2) {
+                                    exDto.en = markup.getMarkupList().get(0).getText();
+                                    exDto.ru = markup.getMarkupList().get(1).getText();
+                                }
+                                //    exDtos.add(exDto);
                                 s = convertSimpleParagraph(markup);
                                 sb.append("EEEXXX").append(s).append("!*!");
-                                System.out.println("   EX    " + s);
+                           //     System.out.println("   EX    " + s);
                                 break;
                         }
                     }
@@ -188,28 +200,44 @@ public class JsonConvert {
         return exDtos;
     }
 
-    private StringBuilder convertBody(List<Body> bodies) {
+    private WordDto convertBody(List<Body> bodies) {
+        WordDto wordDto = new WordDto();
         List<TranslWithExDto> twes = new ArrayList<TranslWithExDto>();
+//        List<String> soundsFiles = new ArrayList<>();
+//        List<String> transcripts = new ArrayList<>();
         StringBuilder sb = new StringBuilder();
         for (Body body : bodies) {
             switch (body.getNode()) {
                 case LIST:
                     for (Item item : body.getItems()) {
-                        twes.add(convertListItem(item, twes, sb));
+                        /*twes.add(*/convertListItem(item, twes, sb);
                     }
                     break;
                 case PARAGRAPH:
+                    for (Markup markup : body.getMarkups()) {
+                        switch (markup.getNode()) {
+                            case SOUND:
+                                wordDto.sounds.add(markup.getFileName());
+                                break;
+                            case TRANSCRIPTION:
+                                wordDto.transcripts.add(markup.getText());
+                        }
+                    }
                     break;
             }
         }
-        System.out.println("-------------------------");
+       // System.out.println("-------------------------");
        // System.out.println(sb.toString());
-        System.out.println("*************************************************");
-        for (TranslWithExDto twe : twes) {
-            System.out.println(twe);
-        }
-        System.out.println("*************************************************");
-        return sb;
+//        System.out.println("*************************************************");
+//        int i = 1;
+//        System.out.println("SIZE TWES " + twes.size());
+//        for (TranslWithExDto twe : twes) {
+//            System.out.println(i++);
+//            System.out.println(twe);
+//        }
+//        System.out.println("*************************************************");
+        wordDto.twes = twes;
+        return wordDto;
     }
 
 
